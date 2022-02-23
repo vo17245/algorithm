@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vo17245/notes/算法导论/二叉搜索树/BST.h
+iostream
+-
+vector
+-
+
+/home/vo17245/notes/算法导论/二叉搜索树/main.cpp
+iostream
+-
+BST.h
+/home/vo17245/notes/算法导论/二叉搜索树/BST.h
+vector
+-
+
